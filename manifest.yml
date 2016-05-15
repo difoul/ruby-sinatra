@@ -4,5 +4,5 @@ applications:
   instances: 1
   memory: 128M
   host: a9s-examples-ruby-sinatra
-  domain: de.a9sapp.eu
-  buildpack: http://github.com/cloudfoundry/ruby-buildpack.git#v1.3.1
+  domain: aws.ie.a9sapp.eu
+  buildpack: http://github.com/cloudfoundry/ruby-buildpack.git
